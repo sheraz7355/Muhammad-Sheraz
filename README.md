@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="YOUR_IMAGE_URL_HERE" alt="Profile Image" width="160"/>
+      <img src="Images/image-2.jpg" alt="Profile Image" width="160"/>
     </td>
     <td>
       <p>
