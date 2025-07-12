@@ -7,6 +7,8 @@ Welcome to my project portfolio! Below you’ll find a list of my featured proje
 ## Color App
 A dynamic application to explore and create beautiful color palettes.
 
+Repository : https://github.com/sheraz7355/Color-App.git
+
 **Languages & Tools:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" title="Swift" />  
 <img src="https://img.shields.io/badge/UIKit-2396F3?logo=uikit&logoColor=white" height="30" title="UIKit" />
