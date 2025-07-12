@@ -1,6 +1,6 @@
 # Muhammad Sheraz
 
-![Alt text](image-url-or-path)
+![Alt text](Images/image-2.jpg)
 
 Welcome to my project portfolio! Below you’ll find a list of my featured projects, including the languages and frameworks used in each, highlighted with their respective icons.
 
