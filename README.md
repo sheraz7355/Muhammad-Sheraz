@@ -1,16 +1,16 @@
 # Muhammad Sheraz
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="Images/image-2.jpg" alt="Profile Picture" width="140" style="border-radius: 10px;" />
-    </td>
-    <td>
-      <h3>Welcome to my project portfolio!</h3>
-      Below you’ll find a list of my featured projects, including the languages and frameworks used in each, highlighted with their respective icons.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="Images/image-2.jpg" alt="Muhammad Sheraz" style="border-radius: 50%; object-fit: cover; width: 180px; height: 180px;">
+  
+  <br>
+  
+  <strong>Muhammad Sheraz</strong>  
+  <em>iOS Developer | Web Enthusiast | Lifelong Learner</em>
+  <br>
+  Passionate about building elegant solutions in Swift and PHP. I love exploring new technologies, creating engaging apps, and sharing my journey of growth with the world.
+</div>
+
 
 Welcome to my project portfolio! Below you’ll find a list of my featured projects, including the languages and frameworks used in each, highlighted with their respective icons.
 
