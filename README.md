@@ -27,7 +27,7 @@ A straightforward CRUD (Create, Read, Update, Delete) app demonstrating essentia
 ## Card Workout App
 An interactive workout tracker using a card-based system to plan and visualize fitness routines.
 
-Link : https://github.com/sheraz7355/Card-Workout-App.git
+Repository : https://github.com/sheraz7355/Card-Workout-App.git
 
 **Languages & Tools:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" title="Swift" />  
