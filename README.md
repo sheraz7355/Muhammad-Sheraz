@@ -1,6 +1,16 @@
 # Muhammad Sheraz
 
-![Alt text](Images/image-2.jpg)
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="Images/image-2.jpg" alt="Profile Picture" width="140" style="border-radius: 10px;" />
+    </td>
+    <td>
+      <h3>Welcome to my project portfolio!</h3>
+      Below you’ll find a list of my featured projects, including the languages and frameworks used in each, highlighted with their respective icons.
+    </td>
+  </tr>
+</table>
 
 Welcome to my project portfolio! Below you’ll find a list of my featured projects, including the languages and frameworks used in each, highlighted with their respective icons.
 
