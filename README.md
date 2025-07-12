@@ -15,9 +15,7 @@
   </tr>
 </table>
 
-Welcome to my project portfolio! Below you’ll find a list of my featured projects, including the languages and frameworks used in each, highlighted with their respective icons.
-
----
+<h1>My Projects</h1>
 
 ## Color App
 A dynamic application to explore and create beautiful color palettes.
