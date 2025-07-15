@@ -31,6 +31,8 @@ Repository : https://github.com/sheraz7355/Color-App.git
 ## CRUD
 A straightforward CRUD (Create, Read, Update, Delete) app demonstrating essential data management.
 
+Repository : https://github.com/sheraz7355/Crud-App.git
+
 **Languages & Tools:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" title="PHP" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" /> 
